@@ -1,0 +1,85 @@
+04.02.2019 13:11:14	This log contains information about the import schema operation into project 'Database1' on computer 'EDMONTON' by user 'GP'.
+04.02.2019 13:11:14	Import of database schema has started.
+04.02.2019 13:11:34	Gathering database credentials
+04.02.2019 13:11:34	Gathering database options
+04.02.2019 13:11:34	Gathering generic database scoped configuration option
+04.02.2019 13:11:34	Gathering users
+04.02.2019 13:11:34	Gathering roles
+04.02.2019 13:11:34	Gathering application roles
+04.02.2019 13:11:34	Gathering role memberships
+04.02.2019 13:11:34	Gathering filegroups
+04.02.2019 13:11:34	Gathering full-text catalogs
+04.02.2019 13:11:34	Gathering assemblies
+04.02.2019 13:11:34	Gathering certificates
+04.02.2019 13:11:34	Gathering asymmetric keys
+04.02.2019 13:11:34	Gathering symmetric keys
+04.02.2019 13:11:34	Gathering encrypted symmetric keys
+04.02.2019 13:11:34	Gathering schemas
+04.02.2019 13:11:34	Gathering XML schema collections
+04.02.2019 13:11:34	Gathering user-defined data types
+04.02.2019 13:11:34	Gathering user-defined types
+04.02.2019 13:11:34	Gathering table types
+04.02.2019 13:11:34	Gathering unique keys for table types
+04.02.2019 13:11:34	Gathering primary keys for table types
+04.02.2019 13:11:34	Gathering indexes for table types
+04.02.2019 13:11:34	Gathering check constraints for table types
+04.02.2019 13:11:34	Gathering default constraints for table types
+04.02.2019 13:11:34	Gathering partition functions
+04.02.2019 13:11:34	Gathering partition schemes
+04.02.2019 13:11:34	Gathering functions
+04.02.2019 13:11:34	Gathering encrypted functions
+04.02.2019 13:11:34	Gathering aggregates
+04.02.2019 13:11:34	Gathering procedures
+04.02.2019 13:11:34	Gathering encrypted procedures
+04.02.2019 13:11:34	Gathering tables
+04.02.2019 13:11:34	Gathering primary keys
+04.02.2019 13:11:35	Gathering unique constraints
+04.02.2019 13:11:35	Gathering foreign keys
+04.02.2019 13:11:35	Gathering default constraints
+04.02.2019 13:11:35	Gathering check constraints
+04.02.2019 13:11:35	Gathering views
+04.02.2019 13:11:35	Gathering encrypted views
+04.02.2019 13:11:35	Gathering indexes
+04.02.2019 13:11:35	Gathering statistics
+04.02.2019 13:11:35	Gathering full-text index stoplists
+04.02.2019 13:11:35	Gathering search property lists
+04.02.2019 13:11:35	Gathering search properties
+04.02.2019 13:11:35	Gathering full-text indexes
+04.02.2019 13:11:35	Gathering column store indexes
+04.02.2019 13:11:35	Gathering spatial indexes
+04.02.2019 13:11:35	Gathering XML indexes
+04.02.2019 13:11:35	Gathering Selective XML indexes
+04.02.2019 13:11:36	Gathering encrypted triggers
+04.02.2019 13:11:36	Gathering triggers
+04.02.2019 13:11:36	Gathering encrypted and clr ddl triggers
+04.02.2019 13:11:36	Gathering ddl triggers
+04.02.2019 13:11:36	Gathering synonyms
+04.02.2019 13:11:36	Gathering defaults
+04.02.2019 13:11:36	Gathering data constraint uddt bindings
+04.02.2019 13:11:37	Gathering rules
+04.02.2019 13:11:37	Gathering data constraint uddt bindings
+04.02.2019 13:11:37	Gathering message types
+04.02.2019 13:11:37	Gathering queues
+04.02.2019 13:11:37	Gathering contracts
+04.02.2019 13:11:37	Gathering services
+04.02.2019 13:11:37	Gathering event notifications
+04.02.2019 13:11:37	Gathering remote service bindings
+04.02.2019 13:11:37	Gathering broker priorities
+04.02.2019 13:11:37	Gathering signatures
+04.02.2019 13:11:37	Gathering data compression options
+04.02.2019 13:11:37	Gathering sequence types
+04.02.2019 13:11:37	Gathering security policies
+04.02.2019 13:11:37	Gather column encryption keys
+04.02.2019 13:11:37	Gathering column master keys
+04.02.2019 13:11:37	Gathering external data sources
+04.02.2019 13:11:37	Gathering external file formats
+04.02.2019 13:11:37	Gathering external tables
+04.02.2019 13:11:37	Gathering extended properties
+04.02.2019 13:11:37	Gathering credentials
+04.02.2019 13:11:37	Gathering logins
+04.02.2019 13:11:37	Gathering server audits
+04.02.2019 13:11:39	Scanning project for duplicate elements
+04.02.2019 13:11:40	Finished duplicate element processing
+04.02.2019 13:11:41	Finished importing database.
+04.02.2019 13:11:41	A summary of the import was saved to the following location: C:\fin\git\final\Database1\Database1\Import Schema Logs\Database1_20190204111114.log
+04.02.2019 13:11:41	Click Finish to continue...
